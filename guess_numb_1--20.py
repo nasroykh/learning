@@ -3,7 +3,6 @@ __author__ = "nasro_ykh"
 from random import randint
 
 g_num = randint(1, 20)
-print(g_num)
 num = int(input("Guess the correct number between 1 and 20 :  "))
 rep = "y"
 g_count = 1
