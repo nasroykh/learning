@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+animal = input("Enter an animal name in plural: ")
+food = input("Enter a food name: ")
+color = input("Enter a color: ")
+number = input("Enter a number: ")
+job = input("Enter a job: ")
+celebrity = input("Enter a woman celebrity name: ")
+print("Hi ! my name is "+name+" i love "+animal+" and i like "+food+" ,\n my favorite color is "+color+" and my favorite number is "+number+" ,\n i would like to be a(n) "+job+" and i will marry "+celebrity+".")
